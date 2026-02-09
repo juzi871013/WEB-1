@@ -28,6 +28,7 @@
 ||auth.privy.io
 ||wallet.okex.org
 ||abs.twimg.com
+||prod.spline.design
 
 ! 1
 ||10010.com
